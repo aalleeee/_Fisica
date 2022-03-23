@@ -38,3 +38,6 @@
 		- Forza elettromagnetica
 		- Template delle forze fondamentali
 	- Reazioni vincolari
+  - Attrito
+  - Piano inclinato
+  - 
