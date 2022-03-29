@@ -10,8 +10,9 @@
 | 15/03/22 | 1° e 2° Legge della Dinamica, Quantità di moto, Forze impulsive, Risultante                                           | [Lez 5](5%20Dinamica.png)                                                                                           |
 | 17/03/22 | 3° Legge della Dinamica, Forza Peso, Forze Elastica, Forza Gravitazionale, Forza Elettromagnetica, Reazioni Vincolari | [Lez 6](6%20Dinamica,%20Forza%20peso,%20elastica,%20gravitazionale,%20elettromagnetica,%20reazioni%20vincolari.png) |
 | 22/03/22 | Attrito statico, Attrito Dinamico, Piano Inclinato                                                                    | [Lez 7 a](7%20a%20Attrito%20Radente.png) - [Lez 7 b](7%20b%20Piano%20Inclinato.png)                                 |
-| 23/03/22 | Pendolo semplice                                                                                                      | [Lez 8](8%20Pendolo%20Semplice.png)                                                                                                                    |
-
+| 23/03/22 | Pendolo semplice                                                                                                      | [Lez 8](8%20Pendolo%20Semplice.png)                                                                                 |
+| 29/03/22 | Lavoro                                                                                                                |                                                                                                                     |
+	
 
 --- 
 
@@ -38,6 +39,7 @@
 		- Forza elettromagnetica
 		- Template delle forze fondamentali
 	- Reazioni vincolari
-  - Attrito
-  - Piano inclinato
+	  - Attrito
+	  - Piano inclinato
 	  - Pendolo semplice
+	  - Lavoro
