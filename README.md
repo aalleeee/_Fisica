@@ -11,8 +11,8 @@
 | 17/03/22 | 3° Legge della Dinamica, Forza Peso, Forze Elastica, Forza Gravitazionale, Forza Elettromagnetica, Reazioni Vincolari | [Lez 6](6%20Dinamica,%20Forza%20peso,%20elastica,%20gravitazionale,%20elettromagnetica,%20reazioni%20vincolari.png) |
 | 22/03/22 | Attrito statico, Attrito Dinamico, Piano Inclinato                                                                    | [Lez 7 a](7%20a%20Attrito%20Radente.png) - [Lez 7 b](7%20b%20Piano%20Inclinato.png)                                 |
 | 23/03/22 | Pendolo semplice                                                                                                      | [Lez 8](8%20Pendolo%20Semplice.png)                                                                                 |
-| 29/03/22 | Lavoro                                                                                                                | [Lez 9](9%20Lavoro.png)                                                                                             |
-| 30/03/22 | Energia Cinetica, Potenza, Forze conservative, Energia Potenziale, Forze non conservative                             | [Lez 10](10%20Energia%20Cinetica,%20Potenza,%20Forze%20conservative,%20Energia%20Potenziale.png)                    |
+| 29/03/22 | Lavoro                                                                                                                | [Lez 9](9)%20Lavoro.png)                                                                                             |
+| 30/03/22 | Energia Cinetica, Potenza, Forze conservative, Energia Potenziale, Forze non conservative                             | [Lez 10](10)%20Energia%20Cinetica,%20Potenza,%20Forze%20conservative,%20Energia%20Potenziale.png)                    |
 |          |                                                                                                                       |                                                                                                                     |
 	
 
