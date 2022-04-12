@@ -13,7 +13,7 @@
 | 23/03/22 | Pendolo semplice                                                                                                      | [Lez 8](8%20Pendolo%20Semplice.png)                                                                                 |
 | 29/03/22 | Lavoro                                                                                                                | [Lez 9](9%20Lavoro.png)                                                                                             |
 | 30/03/22 | Energia Cinetica, Potenza, Forze conservative, Energia Potenziale, Forze non conservative                             | [Lez 10](10%20Energia%20Cinetica,%20Potenza,%20Forze%20conservative,%20Energia%20Potenziale.png)                    |
-|          |                                                                                                                       |                                                                                                                     |
+| 12/04/22 | Forza di Gravitazione Universale, Leggi di Keplero,                                                                   | [Lez 11 a](11%20a%20Forza%20di%20Gravitazione%20Universale%20e%20Leggi%20di%20Keplero.png)                                                                                                                    |
 	
 
 --- 
@@ -54,3 +54,7 @@
 	  - Energia Potenziale
 	  - Conservazione dell'Energia
 	  - Forze non conservative
+  - Gravitazione
+	  - Forza di Gravitazione Universale
+	  - Leggi di Keplero
+	  - 
