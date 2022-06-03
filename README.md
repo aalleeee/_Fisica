@@ -1,0 +1,42 @@
+- cinematica (1 - 26)
+	- [1 Moto rettilineo uniforme](1%20Moto%20rettilineo%20uniforme.png)
+	- [2 Moto uniformemente accelerato, Moto armonico e Moti piani](2%20Moto%20uniformemente%20accelerato,%20Moto%20armonico%20e%20Moti%20piani.png)
+	- [3 Moto parabolico, Moto circolare uniforme](3%20Moto%20parabolico,%20Moto%20circolare%20uniforme.png)
+	- [4 Moto circolare uniforme](4%20Moto%20circolare%20uniforme.png)
+	- tutorato 2
+- dinamica (27 - 41)
+	- [5 Dinamica](5%20Dinamica.png)
+	- [6 Dinamica, Forza peso, elastica, gravitazionale, elettromagnetica, reazioni vincolari](6%20Dinamica,%20Forza%20peso,%20elastica,%20gravitazionale,%20elettromagnetica,%20reazioni%20vincolari.png)
+	- [7 a Attrito Radente](7%20a%20Attrito%20Radente.png)
+	- [7 b Piano Inclinato](7%20b%20Piano%20Inclinato.png)
+	- [8 Pendolo Semplice](8%20Pendolo%20Semplice.png)
+	- [9 Lavoro](9%20Lavoro.png)
+	- [10 Energia Cinetica, Potenza, Forze conservative, Energia Potenziale](10%20Energia%20Cinetica,%20Potenza,%20Forze%20conservative,%20Energia%20Potenziale.png)
+	- esercitazioni 1 - 2 - 3 - 4 - 5
+	- tutorati 3 - 4 - 5 - 6
+- gravitazione 52 - 54
+	- [11 a Forza di Gravitazione Universale e Leggi di Keplero](11%20a%20Forza%20di%20Gravitazione%20Universale%20e%20Leggi%20di%20Keplero.png)
+- moti relativi 43 - 50
+	- [11 b Sistemi di riferimento non inerziali, Relatività Galileiana](11%20b%20Sistemi%20di%20riferimento%20non%20inerziali,%20Relativit%C3%A0%20Galileiana.png)
+	- [11 c Esempi di sistemi di riferimento non inerziali](11%20c%20Esempi%20di%20sistemi%20di%20riferimento%20non%20inerziali.png)
+- dinamica dei sistemi di punti materiali 56 - 63
+	- [12 Sistemi di punti materiali, Centro di massa di un sistema, Sistemi isolati](12%20Sistemi%20di%20punti%20materiali,%20Centro%20di%20massa%20di%20un%20sistema,%20Sistemi%20isolati.png)
+	- [13 Urti](13%20Urti.png)
+	- tutorato 7
+	- esercitazioni 5 - 6
+- primo principio della termodinamica
+	- [14 Termodinamica intro, Sistemi, Equilibrio, Temperatura](14%20Termodinamica%20intro,%20Sistemi,%20Equilibrio,%20Temperatura.png)
+	- [15 Primo principio termodinamica, Calore, trasformazioni termodinamiche](15%20Primo%20principio%20termodinamica,%20Calore,%20trasformazioni%20termodinamiche.png)
+	- [16 Cambi di fase, Calore Latente, Conducibilità del calore](16%20Cambi%20di%20fase,%20Calore%20Latente,%20Conducibilit%C3%A0%20del%20calore.png)
+- gas
+	- [17 Gas perfetti, Leggi di Avogrado e VG-L, Cinetica dei Gas, Trasormazioni Isoterme](17%20Gas%20perfetti,%20Leggi%20di%20Avogrado%20e%20VG-L,%20Cinetica%20dei%20Gas,%20Trasormazioni%20Isoterme.png)
+	- [18 a Trasformazione Isobara, Isocora, relazione di Mayer, Adiabatica](18%20a%20Trasformazione%20Isobara,%20Isocora,%20relazione%20di%20Mayer,%20Adiabatica.png)
+	- [18 b Cilco termodinamico, Rendimento, Ciclo di Carnot](18%20b%20Cilco%20termodinamico,%20Rendimento,%20Ciclo%20di%20Carnot.png)
+- secondo principio della termodinamica
+	- [19 2° Principio della Temodinamica, Enunciati, Teorema di Carnot](19%202%C2%B0%20Principio%20della%20Temodinamica,%20Enunciati,%20Teorema%20di%20Carnot.png)
+	- [20 Teorema di Clausius, Entropia, Corollari e Teoremi](20%20Teorema%20di%20Clausius,%20Entropia,%20Corollari%20e%20Teoremi.png)
+- elettrostatica
+	- [21 Elettrostatica, Forza di Culomb, Principio di Sovrapposizione](21%20Elettrostatica,%20Forza%20di%20Culomb,%20Principio%20di%20Sovrapposizione.png)
+	- [22 Campo Elettrico, Circuitazione, Potenziale Elettrico, Linee di Campo](22%20Campo%20Elettrico,%20Circuitazione,%20Potenziale%20Elettrico,%20Linee%20di%20Campo.png)
+- legge di gauss
+	- [23 Flusso del campo elettrostatico, Legge di Gauss, Angolo Solido](23%20Flusso%20del%20campo%20elettrostatico,%20Legge%20di%20Gauss,%20Angolo%20Solido.png)
